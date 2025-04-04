@@ -403,4 +403,4 @@ router.put('/admin/users/:userId/verify', requireAuth, async (req, res) => {
 
 ---
 
-<p align="center">Made with ❤️ by the Welcome Patient Team</p> 
+<p align="center">Made with ❤️ by Harsh!</p> 
